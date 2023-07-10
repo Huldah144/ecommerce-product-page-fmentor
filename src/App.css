@@ -1,0 +1,96 @@
+
+.row{
+  display: flex;
+  padding-top: 70px;
+  padding-inline: 40px;
+  
+  
+}
+.col-6{
+  width: 60%;
+  
+}
+.flex{
+  display: flex;
+}
+
+.main-image{
+  width: 90%;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.mobile{
+  display: none;
+}
+
+.product-item{
+  display: flex;
+  
+  
+}
+
+.thumbnail{
+  width: 75%;
+  margin-top: 30px;
+  border-radius: 10px;
+  cursor: pointer;
+  
+}
+
+.product-list .thumbnail{
+  border: 2px solid var(--Orange);
+  border-radius: 10px;
+  color: (--Dark-grayish-blue);
+  opacity: .4;
+  
+  
+}
+
+.arrow{
+  display: none;
+}
+.lightbox{
+  display: block;
+}
+.desk-show{
+  display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */

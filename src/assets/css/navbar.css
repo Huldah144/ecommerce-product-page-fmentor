@@ -1,0 +1,26 @@
+.nav-items{
+    display: flex;  
+    
+}
+
+.nav-list{
+    padding-inline: 8px; 
+    color: var(--Dark-grayish-blue);
+    cursor: pointer;
+   
+    
+}
+.nav-list:hover{
+    color: var(--Very-dark-blue);
+    font-weight: bold;
+}
+nav{
+    width: 100%;
+    display: flex;
+    padding-left: 40px;
+    
+}
+/* .flex{
+    display: flex;
+} */
+

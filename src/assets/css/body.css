@@ -1,0 +1,84 @@
+.col-6{
+    width: 60%;
+}
+.main-body{
+  margin: 40px ;
+}
+.title{
+    color: var( --Orange);
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.subtitle{
+    color: var(--Very-dark-blue);
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.caption{
+    color: var(--Dark-grayish-blue);
+    line-height: 1.5;
+    font-weight: 400;
+    padding-top: 30px;
+
+}
+.money-list{
+    padding-top: 30px;
+    gap: 10px;
+}
+.fig1{
+    color: var(--Very-dark-blue);
+    font-weight: 700;
+    font-size: 20px;
+}
+.fig2{
+    background-color: var( --Pale-orange);
+    color: var(--Orange);
+    font-weight: 700;
+    padding-inline: 10px;
+    border-radius: 8px;
+}
+.fig3{
+    color: var(--Dark-grayish-blue);
+    padding-top: 10px;
+    font-weight: 400;
+    font-size: 14px;
+}
+.body{
+    padding-top: 30px;
+    gap: 20px;
+    
+}
+.obj-item{
+    background-color:var(--Light-grayish-blue);
+    padding:10px 30px;
+    gap: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn-primary{
+    background-color: var(--Orange);
+    color: var(--White);
+    width: 40%;
+    border-radius: 10px;
+    font-weight: 700;
+    
+   
+}
+.btn-primary:hover{
+    /* background-color: var(--Pale-orange); */
+    opacity: 70%;
+    transition: 1s ease-in;
+    
+}
+.pri-icon{
+    font-size: 14px;
+    width: 15%;
+}
+.fig-mobile{
+    display: none;
+}
+
+
