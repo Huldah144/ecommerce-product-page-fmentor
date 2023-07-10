@@ -70,7 +70,7 @@ a{
   .container{
     max-width: 100%;
     margin: auto;
-    /* overflow: hidden; */
+    
   }
   img{
     width: 100%;
@@ -82,9 +82,7 @@ a{
     width: 90%;
 
   }
-  /* .logo{
-   width: 40%;
-  } */
+  
   
   nav{
     display: block;
@@ -95,9 +93,7 @@ a{
     height: 100%;
     z-index: 99;
     transition: 1s ease-in-out;
-    /* background-color: var(--White);
-    box-shadow: ;
-    padding: 10px; */
+    
   }
 
   .nav-items{
@@ -324,15 +320,4 @@ a{
   
 
 
-/* @media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
-} */
+

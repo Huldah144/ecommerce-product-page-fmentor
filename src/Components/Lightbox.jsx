@@ -1,6 +1,5 @@
 import React from 'react'
 import {FaChevronLeft, FaChevronRight } from 'react-icons/fa'
-import closes from '../assets/img/icon-close.svg'
 import '../assets/css/lightbox.css'
 
 const Lightbox = ({products, slideIndex, nextSlide, previousSlide, setShowLightbox}) => {
